@@ -31,7 +31,7 @@ The dashboard converts raw Uber ride data into interactive visuals and actionabl
 
 
 📈 Booking & Demand Analysis
-
+![Uber Dashboard - Executive Summary](dashboard_screenshots/uber1.png)
 
 # Booking & Demand Analysis
 Insights
