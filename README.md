@@ -45,6 +45,8 @@ The dashboard converts raw Uber ride data into interactive visuals and actionabl
 
 
 💰 Revenue Analysis
+![Uber Dashboard - Executive Summary](dashboard_screenshots/uber1.png)
+
 Insights
 
 UPI is the most used payment method, contributing ~45% of total revenue
